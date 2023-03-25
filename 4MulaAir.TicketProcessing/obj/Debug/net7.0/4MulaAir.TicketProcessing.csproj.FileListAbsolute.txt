@@ -1,0 +1,17 @@
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/bin/Debug/net7.0/4MulaAir.TicketProcessing
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/bin/Debug/net7.0/4MulaAir.TicketProcessing.deps.json
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/bin/Debug/net7.0/4MulaAir.TicketProcessing.runtimeconfig.json
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/bin/Debug/net7.0/4MulaAir.TicketProcessing.dll
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/bin/Debug/net7.0/4MulaAir.TicketProcessing.pdb
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.csproj.AssemblyReference.cache
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.AssemblyInfoInputs.cache
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.AssemblyInfo.cs
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.csproj.CoreCompileInputs.cache
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.dll
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/refint/4MulaAir.TicketProcessing.dll
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.pdb
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.genruntimeconfig.cache
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/ref/4MulaAir.TicketProcessing.dll
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/obj/Debug/net7.0/4MulaAir.TicketProcessing.csproj.CopyComplete

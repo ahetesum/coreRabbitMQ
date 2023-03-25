@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vTzNQgQctszNMXqP9C08Q4k8+gMLsAIuGBz9lpNlOZDgMVySfInJfYk8X/POmmRiGr8MpR6UgPfEN81jaf7b1A==",
+  "success": true,
+  "projectFilePath": "/Users/hb/Projects/4MulaAir/4MulaAir.TicketProcessing/4MulaAir.TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "/Users/hb/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/Users/hb/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/hb/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

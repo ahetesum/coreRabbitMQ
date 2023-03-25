@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1E696A0E-AC29-4F42-B9DF-D10D5B70E774}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="4MulaAir.API/Services/MessageProducer.cs">
+    <Files>
+      <File FileName="4MulaAir.API/Models/Booking.cs" />
+      <File FileName="4MulaAir.API/Services/IMessageProducer.cs" />
+      <File FileName="4MulaAir.API/Services/MessageProducer.cs" Line="16" Column="35" />
+      <File FileName="4MulaAir.API/Program.cs" />
+      <File FileName="4MulaAir.API/Controllers/BookingController.cs" />
+      <File FileName="4MulaAir.API/Controllers/WeatherForecastController.cs" />
+      <File FileName="4MulaAir.TicketProcessing/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4MulaAir" expanded="True">
+            <Node name="4MulaAir.API" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="4MulaAir.TicketProcessing" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4MulaAir.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
